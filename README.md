@@ -20,4 +20,4 @@ Durante o desenvolvimento, foquei em:
 
 📸 Resultado
 
-!<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/e698e53f-9f4f-406e-b804-fdfa6a3dfbc6" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/e698e53f-9f4f-406e-b804-fdfa6a3dfbc6" />
