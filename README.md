@@ -16,8 +16,10 @@ Durante o desenvolvimento, foquei em:
 - Reset de estilos padrão do navegador (como a cor dos links).
 
 📸 Exemplo
+
 ![exampleLayout](https://github.com/user-attachments/assets/4c4f9ba5-e3df-47ec-8400-7b071977056e)
 
 
 📸 Resultado
+
 !<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/e698e53f-9f4f-406e-b804-fdfa6a3dfbc6" />
