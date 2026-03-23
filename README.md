@@ -1,6 +1,4 @@
 # profile-card-project
-🪪 Profile Card - Robert Miller (Inspiration)
-
 Este é um projeto de Cartão de Links desenvolvido para praticar fundamentos de Front-End. O layout foi inspirado em um design moderno.
 
 🚀 Tecnologias Utilizadas
